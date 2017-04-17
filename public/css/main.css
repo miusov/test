@@ -1,0 +1,27 @@
+.exit{
+    display: inline !important;
+}
+
+table thead tr th{
+    cursor: pointer;
+}
+table thead tr th:hover{
+    background-color: rgba(211, 211, 211, 0.71);
+}
+
+.link{
+    padding: 7px 10px;
+    margin-right: 5px;
+    line-height: 20px;
+    font-size: 16px;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.link:hover{
+    background-color: #EEEEEE;
+}
+
+.pagin{
+    margin-top: 30px;
+}
